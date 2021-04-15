@@ -1,0 +1,1 @@
+//This is the component we will be using as an example of how to create a protected route. If the user is signed in, they will be able to view this route. If they are not signed in, they will be redirected to the sign-in form.
