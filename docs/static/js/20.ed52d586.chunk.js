@@ -1,0 +1,2 @@
+(this["webpackJsonpbasic-authentication"]=this["webpackJsonpbasic-authentication"]||[]).push([[20],{238:function(t,n,e){"use strict";e.r(n),e.d(n,"amplify_container",(function(){return c}));var i=e(18),c=function(){function t(t){Object(i.k)(this,t)}return t.prototype.render=function(){return Object(i.i)(i.b,null,Object(i.i)("slot",null))},t}();c.style=":host{display:-ms-flexbox;display:flex;-ms-flex-align:center;align-items:center;-ms-flex-pack:center;justify-content:center;height:100vh}"}}]);
+//# sourceMappingURL=20.ed52d586.chunk.js.map

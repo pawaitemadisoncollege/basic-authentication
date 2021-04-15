@@ -2,6 +2,7 @@
   "name": "basic-authentication",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://pawaitemadisoncollege.github.io/basic-authentication/",
   "dependencies": {
     "@aws-amplify/ui-react": "^1.0.6",
     "@testing-library/jest-dom": "^5.11.10",
